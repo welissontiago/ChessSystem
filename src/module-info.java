@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author uelisson
+ *
+ */
+module ChessSystem {
+}
